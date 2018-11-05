@@ -1,8 +1,9 @@
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-from sklearn import linear_model
 from sklearn.metrics import r2_score
+from sklearn import linear_model
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+import requests
 
 link = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.data'
 
@@ -38,9 +39,7 @@ print("R2-score: %.2f" % r2_score(y_hat, y))
 # -------------------------------------------------------------------------------------------------------
 # page = requests.get(link)
 # data = page.text
-#
 # rows = data.split("\n")
-# print(rows)
 # crm = []
 # zn = []
 # indus = []
@@ -57,9 +56,7 @@ print("R2-score: %.2f" % r2_score(y_hat, y))
 # medv = []
 #
 # for row_str in rows:
-#     row_str = row_str.replace("   ", " ")
-#     row_str = row_str.replace("  ", " ")
-#     col = row_str.split(" ")
+#     col = row_str.split()
 #     crm.append(float(col[1]))
 #     zn.append(float(col[2]))
 #     indus.append(float(col[3]))
@@ -73,11 +70,8 @@ print("R2-score: %.2f" % r2_score(y_hat, y))
 #     ptradio.append(float(col[11]))
 #     b.append(float(col[12]))
 #     lstat.append(float(col[13]))
-#     if (len(col) >= 13):
-#         medv.append(float(col[len(14)]))
-#     else:
-#         medv.append(0.0)
-#
+#     medv.append(float(col[len(14)]))
+
 # house = {'CRM': crm, \
 #          'ZN': zn, '\
 #          INDUS': indus, \
@@ -91,7 +85,7 @@ print("R2-score: %.2f" % r2_score(y_hat, y))
 #          'PTRATIO': ptradio, \
 #          'B': b, \
 #          'LSTAT': lstat, \
-#          # 'MEDV': medv \
+#          'MEDV': medv \
 #          }
 # J = pd.DataFrame(house)
 # print(J)
