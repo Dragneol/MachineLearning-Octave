@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9f1740-f0a7-4807-a707-5df95f3b74c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AI-Fsoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/01_Multiple_Linear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/01_NonLinear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/01_Polynomial_Linear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/01_Simple_Linear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/1.1_Python_First_Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/1.1_Python_First_Code.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/1.2_String_Operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/1.2_String_Operations.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/2.1_Tuples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/2.1_Tuples.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/2.2_Lists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/2.2_Lists.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/2.3_Dictionaries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/2.3_Dictionaries.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/2.4_Sets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/2.4_Sets.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/DuongPTH-Assgnment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/DuongPTH-Assgnment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/DuongPTH-Assignment1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/DuongPTH-Assignment1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/3.1_Conditions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/3.1_Conditions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/3.2_loops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/3.2_loops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/3.3_Functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/3.3_Functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/3.4_Objects_and_Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/3.4_Objects_and_Classes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AI-Fsoft/4.3_Loading_Data_and_Viewing_Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../AI-Fsoft/4.3_Loading_Data_and_Viewing_Data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,20 +65,20 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="5" />
-          <entry key="py" value="17" />
+          <entry key="py" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="5" />
-          <entry key="Python" value="17" />
+          <entry key="Python" value="18" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KNN.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
@@ -96,6 +86,15 @@
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hypothesis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -328,13 +327,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1.2_String_Operations.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Hypothesis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mathplot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -363,6 +355,13 @@
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hypothesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>

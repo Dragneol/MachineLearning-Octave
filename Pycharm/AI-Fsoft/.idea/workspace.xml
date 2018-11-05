@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4180c99-90a8-476b-9915-b90ab40c2127" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HelloWorld/Set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Multiple_Linear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_NonLinear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Polynomial_Linear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_Simple_Linear_Regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1_Python_First_Code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.1_Python_First_Code.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2_String_Operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.2_String_Operations.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1_Tuples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.1_Tuples.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2_Lists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.2_Lists.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.3_Dictionaries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.3_Dictionaries.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4_Sets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.4_Sets.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DuongPTH-Assgnment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DuongPTH-Assgnment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DuongPTH-Assignment1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DuongPTH-Assignment1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1_Conditions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.1_Conditions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.2_loops.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.2_loops.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.3_Functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.3_Functions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.4_Objects_and_Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.4_Objects_and_Classes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.3_Loading_Data_and_Viewing_Data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.3_Loading_Data_and_Viewing_Data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/AI_Fsoft$AI_Fsoft.coverage" NAME="AI-Fsoft Coverage Results" MODIFIED="1541389790225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/AI_Fsoft$AI_Fsoft.coverage" NAME="AI-Fsoft Coverage Results" MODIFIED="1541405553173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="388895603">
@@ -43,24 +33,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="15" />
+          <entry key="ipynb" value="24" />
           <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="15" />
+          <entry key="IPNB" value="24" />
           <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1452" />
+          <entry key="py" value="2507" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1452" />
+          <entry key="Python" value="2507" />
         </counts>
       </usages-collector>
     </session>
@@ -68,10 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.4_Sets.ipynb">
+        <entry file="file://$PROJECT_DIR$/4.3_Loading_Data_and_Viewing_Data.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="68" />
+              <selected id="32" />
             </state>
           </provider>
         </entry>
@@ -109,6 +99,11 @@
         <option value="$PROJECT_DIR$/2.2_Lists.ipynb" />
         <option value="$PROJECT_DIR$/2.3_Dictionaries.ipynb" />
         <option value="$PROJECT_DIR$/2.4_Sets.ipynb" />
+        <option value="$PROJECT_DIR$/3.1_Conditions.ipynb" />
+        <option value="$PROJECT_DIR$/3.2_loops.ipynb" />
+        <option value="$PROJECT_DIR$/3.3_Functions.ipynb" />
+        <option value="$PROJECT_DIR$/3.4_Objects_and_Classes.ipynb" />
+        <option value="$PROJECT_DIR$/4.3_Loading_Data_and_Viewing_Data.ipynb" />
       </list>
     </option>
   </component>
@@ -264,7 +259,31 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18461539" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18439716" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32867134" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.42411348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49213484" weight="0.14026846" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" sideWeight="0.5078652" side_tool="true" weight="0.3409396" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2442953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18439716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -280,31 +299,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.49213484" weight="0.3785235" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" sideWeight="0.5078652" side_tool="true" weight="0.06711409" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16174497" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18461539" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.2951049" />
-      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="0" side_tool="true" visible="true" weight="0.21946308" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" sideWeight="0.5078652" side_tool="true" weight="0.3409396" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,20 +309,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.4_Objects_and_Classes.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.3_Functions.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assgnment2.py" />
     <entry file="file://$PROJECT_DIR$/01_NonLinear_Regression.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -421,6 +402,41 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.2_loops.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.1_Conditions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.3_Functions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.4_Objects_and_Classes.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.3_Loading_Data_and_Viewing_Data.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="41" />
         </state>
       </provider>
     </entry>
