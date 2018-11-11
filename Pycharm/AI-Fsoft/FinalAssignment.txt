@@ -1,0 +1,50 @@
+Hi all,
+Now that you have been equipped with the skills to use different Machine Learning algorithms, over the course of 7 days, you will have the opportunity to practice and apply it on a dataset. In this project, you will complete a notebook where you will build a classifier to predict whether a person makes over $50K/year or not.
+
+You load a historical dataset from 2 locations (one for training, one for testing purpose), clean the data (i.e. dealing with incorrect values or missing data, etc.), and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
+k-Nearest Neighbour
+Decision Tree
+Logistic Regression
+Support Vector Machine
+
+The result is reported as the accuracy of each classifier, using the following metrics when these are applicable:
+Jaccard index
+F1-score
+LogLoss
+
+Kindly be noted:
+Please use the test set (downloaded above) for calculating the accuracy. Can you make it over 70% (for the Jaccard index and F1-score)?
+
+About the dataset:
+This dataset contains 48842 observations, mix of continuous and discrete values (train=32561, test=16281). It includes following fields:
+
+age: continuous.
+workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
+fnlwgt: continuous.
+education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
+education-num: continuous.
+marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
+occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
+relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
+race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
+sex: Female, Male.
+capital-gain: continuous.
+capital-loss: continuous.
+hours-per-week: continuous.
+native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
+
+Link to the Dataset:
+TRAINING SET: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data
+TESTING SET: https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.test
+
+
+NOTE:
+Another way of doing One-hot encoding within a DataFrame df:
+Feature = df[['Principal','terms','age','Gender','weekend']] #Other columns to be included
+Feature = pd.concat([Feature,pd.get_dummies(df['education'])], axis=1) #One-hot encoding all categorical data in [education] column
+Feature.drop(['Master or Above'], axis = 1,inplace=True) #Remove column named [Master or Above]
+Feature.head() #Preview the one-hot encoded data
+
+
+Thanks you all for attending this class!
+All the best,

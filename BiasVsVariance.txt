@@ -1,0 +1,9 @@
+bias:
+high-bias : train's accuracy not high as expected
+low-bias: train;s accuracy acceptable
+variance
+high-variance: test'as accuracy not high as expected
+
+high-bias -> increase layers
+hight-variance-> collect more data
+

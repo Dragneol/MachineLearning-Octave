@@ -1,9 +1,8 @@
-from sklearn.metrics import r2_score
-from sklearn import linear_model
 import matplotlib.pyplot as plt
-import pandas as pd
 import numpy as np
-import requests
+import pandas as pd
+from sklearn import linear_model
+from sklearn.metrics import r2_score
 
 link = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.data'
 
