@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4180c99-90a8-476b-9915-b90ab40c2127" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/AI-Fsoft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI-Fsoft.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.1_Simple_Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5.1_Simple_Linear_Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DuongPTH-Assgnment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DuongPTH-Assignment2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DuongPTH-Assignment1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.2_Polynomial_Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5.2_Polynomial_Linear_Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DuongPTH-FinalAssignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DuongPTH-FinalAssignment.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +18,7 @@
     <session id="388895603">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
@@ -31,19 +27,19 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ipynb" value="50" />
+          <entry key="ipynb" value="52" />
           <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="50" />
+          <entry key="IPNB" value="52" />
           <entry key="Python" value="12" />
         </counts>
       </usages-collector>
@@ -62,17 +58,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DuongPTH-FinalAssignment.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,7 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,10 +309,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22214764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22214764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -347,7 +332,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.48794326" weight="0.28993288" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" sideWeight="0.5120567" side_tool="true" weight="0.19463088" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="5" sideWeight="0.5120567" side_tool="true" visible="true" weight="0.19463088" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2442953" />
@@ -491,7 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5.2_Polynomial_Linear_Regression.ipynb" />
     <entry file="file://$PROJECT_DIR$/DuongPTH-Assignment1.ipynb" />
     <entry file="file://$PROJECT_DIR$/6.1_KNN.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -535,10 +519,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5.2_Polynomial_Linear_Regression.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DuongPTH-FinalAssignment.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="3" />
         </state>
       </provider>
     </entry>
